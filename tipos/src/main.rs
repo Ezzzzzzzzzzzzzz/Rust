@@ -1,3 +1,12 @@
+/* 
+ * Tipos de datos en Rush
+ * Por: 
+ * Fecha:  
+ *  
+ * Este programa...
+ *  
+ */ 
+
 fn main() {
     // Tipos de datos
 
